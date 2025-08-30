@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# APK outputs
+app/build/outputs/
+
+# Local properties (SDK paths)
+local.properties
